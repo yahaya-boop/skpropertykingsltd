@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SK Property Kings Ltd Uganda</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="SK Property Kings Ltd Logo">
+        <h1>Welcome to SK Property Kings Ltd Uganda</h1>
+        <p>Your trusted real estate partner for property management, land sales, and construction.</p>
+    </header>
+
+    <nav>
+        <a href="#services">Services</a>
+        <a href="#properties">Properties</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Property Management</li>
+            <li>Buying & Selling of Land</li>
+            <li>New & Used Property Sales</li>
+            <li>Construction Services</li>
+            <li>Rent Collection for Landlords</li>
+        </ul>
+    </section>
+
+    <section id="properties">
+        <h2>Featured Properties</h2>
+        <div class="gallery">
+            <img src="house1.jpg" alt="Modern House">
+            <img src="house2.jpg" alt="Luxury Villa">
+            <img src="land1.jpg" alt="Prime Land for Sale">
+            <img src="apartment.jpg" alt="Apartment Complex">
+        </div>
+    </section>
+
+    <section id="benefits">
+        <h2>Why Choose Us?</h2>
+        <p>We make property management stress-free for landlords by ensuring timely rent collection and maintenance.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>📞 Customer Helpline: 0743101708</p>
+        <p>📍 Facebook: SK PROPERTY KINGS LTD</p>
+        <p>🐦 X (Twitter): SK PROPERTY KINGS LTD</p>
+        <p>🎥 TikTok: SK PROPERTY KINGS LTD</p>
+        <p>📸 Instagram: SK PROPERTY KINGS LTD</p>
+    </section>
+
+    <footer>
+        <p>Payment Methods: Mobile Money (0701711025, 0775801213) | Equity Bank (1035101180211)</p>
+        <p>&copy; 2025 SK Property Kings Ltd Uganda. All rights reserved.</p>
+    </footer>
+</body>
+</html>
